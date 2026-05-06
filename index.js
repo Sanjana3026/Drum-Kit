@@ -14,12 +14,14 @@ addEventListener("keypress" , function(event){
     buttonanimation(event.key);
 });
 
-function buttonanimation(currentkey){
-   var activebutton = document.querySelector("."+currentkey);
-   activebutton.classList.add("pressed");
-   setTimeout(function(){
-    activebutton.classList.remove("pressed") , 0.1
-   })
+function buttonanimation(currentkey) {
+   var activebutton = document.querySelector("." + currentkey);
+   if (activebutton) { 
+       activebutton.classList.add("pressed");
+       setTimeout(function() {
+           activebutton.classList.remove("pressed");
+       }, 100); 
+   }
 }
 
 function makesound(key){

@@ -2,8 +2,8 @@
 
 A sleek, responsive virtual drum kit built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Experience high-quality drum sounds with satisfying visual feedback, playable via mouse clicks or keyboard shortcuts.
 
-## 🚀 Live Demo
-https://sanjana3026.github.io/Drum-Kit/
+## 🚀 [Play the Live Demo](https://sanjana3026.github.io/Simon-Game/)
+
 
 ## ✨ Features
 - **Dual Input:** Play using your mouse or keyboard keys (`W, A, S, D, J, K, L`).
@@ -33,4 +33,4 @@ https://sanjana3026.github.io/Drum-Kit/
 
 
 ---
-Made with ❤️ by Sanjana 
+**Developed with ❤️ by [Sanjana](https://github.com)**
